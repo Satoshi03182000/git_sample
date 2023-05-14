@@ -3,6 +3,7 @@
 int sum(int, int);
 int main()
 {
+std::cout << "Git Training" << std::endl;
 std::cout << "This is master" << std::endl;
 int a = 5;
 int b = 3;
